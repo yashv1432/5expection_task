@@ -1,0 +1,35 @@
+.border-container{
+  border-radius: 5px;
+  border: 2px solid #212529!important;
+}
+.border-img{
+  border-right: 2px solid;
+}
+.border-btn{
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.plus{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.minus{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+input[type="text"]::placeholder { 
+                  
+  /* Firefox, Chrome, Opera */
+  text-align: center;
+  color: black;
+}
+.displayValues span{
+  margin: 0.5rem;
+}
